@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-recurring-orders-vue-inertia",
+  "capabilityKey": "planned:ecommerce:recurring-orders",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-ecommerce-recurring-orders-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/ecommerce/nextjs/recurring-orders.md",
+  "presentationPlan": "projects/ecommerce/vue/recurring-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
